@@ -1,0 +1,19 @@
+{
+  "name": "sao-ui",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-router": "^4.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts-with-sass start",
+    "build": "react-scripts-with-sass build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

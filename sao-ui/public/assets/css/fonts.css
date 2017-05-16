@@ -1,0 +1,21 @@
+@font-face { 
+    font-family: 'SAO-Bold'; 
+    src: url('./assets/fonts/TTF/SAOUITT-Bold.ttf') format('ttf'),
+        url('./assets/fonts/SAOUI-Bold.otf') format('otf'); 
+} 
+@font-face { 
+    font-family: 'SAO-Regular'; 
+    src: url('./assets/fonts/TTF/SAOUITT-Regular.ttf') format('ttf'),
+        url('./assets/fonts/SAOUI-Regular.otf') format('otf'); 
+} 
+@font-face { 
+    font-family: 'SAO-WRegular'; 
+    src: url('./assets/fonts/TTF/SAOWelcomeTT-Regular.ttf') format('ttf'),
+        url('./assets/fonts/SAOUIWelcome-Regular.otf') format('otf'); 
+} 
+
+@font-face { 
+    font-family: 'SAO-WBold'; 
+    src: url('./assets/fonts/TTF/SAOWelcomeTT-Bold.ttf') format('ttf'),
+        url('./assets/fonts/SAOUIWelcome-Bold.otf') format('otf'); 
+} 
