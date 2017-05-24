@@ -1,5 +1,7 @@
 @import './components/form-login/form-login.scss';
 @import './components/input.scss';
+@import './components/modal/modal.scss';
+
 
 * {
     font-family:'SAO-Regular', sans-serif;
@@ -7,6 +9,7 @@
 
 body{
     background-color:#FFF;
+    position:relative;
 }
 
 .pull-right { 
