@@ -11,10 +11,8 @@ export default props => (
         </div>
         <div className="modal-footer">
             <div className="btn btn-ok">
-                <img src={btn_ok} alt="" height="45px"/>
             </div>
             <div className="btn btn-cancel">
-                <img src={btn_cancel} alt="" height="45px"/>
             </div>
             <div className="clearfix"></div>
         </div>

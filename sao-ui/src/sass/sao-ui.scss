@@ -2,6 +2,13 @@
 @import './components/input.scss';
 @import './components/modal/modal.scss';
 
+@font-face {
+    font-family: "SAO";
+    font-weight: 400;
+    src:
+        url("../fonts/sword_art_online_font_by_darkblackswords-d5nssbp.otf")
+}
+
 
 * {
     font-family:'SAO-Regular', sans-serif;
@@ -11,6 +18,7 @@ body{
     background-color:#FFF;
     position:relative;
 }
+
 
 .pull-right { 
     float:right;
@@ -22,4 +30,5 @@ body{
 
 .clearfix{
     clear:both;
+
 }
